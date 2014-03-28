@@ -1,0 +1,6 @@
+This program is one of my school projects for my Java class.
+
+The program is meant to determine the compatibility between two students rooming together
+depending on their living preferences (i.e. music, reading, quiet time).
+
+The matching formula was provided, as well as the student data (name, gender, and birthday).
